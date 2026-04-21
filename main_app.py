@@ -20,7 +20,7 @@ import subprocess
 from typing import TypedDict, Literal, TypeAlias
 import ctypes
 
-APP_USER_MODEL_ID = "TaNeisha.QRCodeGenerator.2.0"
+APP_USER_MODEL_ID = "QRCodeGenerator.2.0"
 
 # Must be called before tk.Tk() is created.
 # Bump APP_USER_MODEL_ID when changing branding/icon to avoid stale taskbar cache grouping.
