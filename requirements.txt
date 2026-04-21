@@ -1,0 +1,4 @@
+# Requires Python 3.10+ (uses X | Y union syntax and match-style TypeAlias)
+qrcode[pil]>=7.4.2
+Pillow>=9.1.0
+pywin32>=306; platform_system == "Windows"
